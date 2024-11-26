@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shabloni_IP", "Shabloni_IP\Shabloni_IP.csproj", "{A5EB2009-C6D5-4013-A53A-554BE670DD27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5EB2009-C6D5-4013-A53A-554BE670DD27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5EB2009-C6D5-4013-A53A-554BE670DD27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5EB2009-C6D5-4013-A53A-554BE670DD27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5EB2009-C6D5-4013-A53A-554BE670DD27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F2D1F0D-570F-4467-8F2E-1C47B7AEA9B9}
+	EndGlobalSection
+EndGlobal
